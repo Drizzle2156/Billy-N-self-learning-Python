@@ -1,6 +1,6 @@
 16 is not done yet
 
-The next upcoming lessons are 
+The next topics I will go over are
 17 - Lambda & Higher Order Functions
 18 - Classes & Objects
 19 - Exceptions & Errors
