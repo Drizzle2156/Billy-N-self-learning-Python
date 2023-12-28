@@ -1,0 +1,53 @@
+GENERAL terminal notes
+
+In computing, a shell is a special program that allows humans to use the operating system's services 
+Zsh means Z Shell, this this over the bash shell because Zsh has more features
+by default you start out in /Users/billynoy
+type in and enter pwd to see where i am at inside the terminal
+cd .. takes me backwards 1 folder
+cd puts me back to /Users/billynoy
+
+read more here below
+https://www.easeus.com/computer-instruction/change-directory-in-terminal-mac.html#:~:text=To%20change%20the%20directory%20in%20Terminal%20Mac%2C%20it's%20recommended%20to,desktop%20into%20the%20Terminal%20Mac.
+
+
+To clear the terminal screen in macOS, you can use the `clear` command or a keyboard shortcut:
+1. Using the `clear` command:
+   Open the Terminal application (you can find it in the "Utilities" folder within the "Applications" folder) and simply type:
+   clear
+   Press the Enter key, and the terminal screen will be cleared, giving you a clean, empty screen.
+
+2. Using a keyboard shortcut:
+   You can also use a keyboard shortcut to clear the terminal screen:
+   - Press `Command + K` (⌘ + K) simultaneously.
+   This keyboard shortcut will also clear the terminal screen, just like the `clear` command.
+Keep in mind that clearing the terminal screen will not delete any history or previous commands; it will only remove the visible output from the screen, making it easier to work with a clean interface.
+
+apple terminal userguide here
+https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac#:~:text=In%20the%20Terminal%20app%20on%20your%20Mac%2C%20in%20the%20window,type%20exit%20%2C%20then%20press%20Return.
+
+
+
+
+
+
+opening up the terminal zsh for python programming
+
+python3 and enter. python mode: >>>
+to exit python: exit()
+
+
+/Users/billynoy/Online Courses/free code camp python/Lesson 1
+https://youtu.be/gxU1wlBAsig 
+get the path from files or folders in finder by right-clicking and holding option button
+which gives the option to copy pathname. if there are spaces in the file directory, I have to put the path in " "
+found this out from https://www.reddit.com/r/linuxquestions/comments/vsz418/whats_with_the_bash_cd_too_many_arguments/
+
+
+
+billynoy@Billys-MBP-13 ~ % cd "/Users/billynoy/Online Courses/free code camp python/Lesson 1"
+#im in the directory now. from here I enter python mode and can run the python program within the path
+billynoy@Billys-MBP-13 Lesson 1 % python3 hello.py
+Hello World!
+billynoy@Billys-MBP-13 Lesson 1 % 
+
