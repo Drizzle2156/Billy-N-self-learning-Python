@@ -1,4 +1,4 @@
-16 is not done yet
+I am not done with the Lesson 16 Challenges yet
 
 The next topics I will go over are
 17 - Lambda & Higher Order Functions
