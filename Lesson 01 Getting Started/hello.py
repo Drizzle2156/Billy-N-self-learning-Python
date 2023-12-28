@@ -1,7 +1,7 @@
 CHAPTER 1: GETTING STARTED
 Installed Python interpreter (IDLE + Python Launcher) from www.python.org. The interpreter allows for the Python REPL or SHELL which reads a piece of code, evaluates it, and then prints the result to the console in a loop.
 Installed VS Code which is a source code editor. 
-Ran into issue, Not being able to launch Python Launcher like before : r/learnpython. Got the problem with the popup window answered. 
+Ran into issue, Not being able to launch Python Launcher like before r/learnpython. Got the problem with the popup window answered. 
 Just set open .py files with Python launcher app
 Install the Python extension from Microsoft. Extensions allow us to add languages and core functionalities to VS Code
 Run code in the terminal using the python3 command, don't type in the $
